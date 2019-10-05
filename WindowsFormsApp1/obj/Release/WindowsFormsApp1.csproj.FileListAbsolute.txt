@@ -1,0 +1,19 @@
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+c:\users\student\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Korzhov Ivan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
